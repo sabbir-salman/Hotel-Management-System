@@ -10,7 +10,7 @@ Burj Al Dhaka
 ## Software & Database
 1. Netbean 8.2
 2. MySQL Workbench 8.0 CE
-3. SceneBuilder
+3. Scene Builder 8.5.0
 
 ## Language
 1. JavaFX
