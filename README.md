@@ -1,7 +1,7 @@
 # Hotel Management System
 
 ## Project Title
-This is a simple desktop application Project. Which is made by an open source Java-based framework JavaFX. This is our second SD and very first Java project in varsity life as a team.
+This is a desktop application Project. Which is made by an open source Java-based framework JavaFX. This is our second SD and very first Java project in varsity life as a team.
 
 Follow this link for a short overview of this project: https://youtu.be/hNFOmj3mXpQ
 ## Project Name
